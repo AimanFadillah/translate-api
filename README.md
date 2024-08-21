@@ -15,4 +15,5 @@ A brief description of what this project does and who it's for
 | language  | `string` | Selected language |
 
 ## Example
-![Screenshot (289)](https://github.com/user-attachments/assets/3f8aa3ca-d2bb-4b70-b6c2-79b69471f259)
+![Screenshot (289)](https://github.com/user-attachments/assets/b2d45fa9-c1ac-4581-8b32-bb0838f3324e)
+
