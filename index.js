@@ -14,7 +14,7 @@ app.use(cors());
 translate.engine = "google"
 
 app.get("/",async (req,res) => {
-    const bahasa = JSON.parse(fs.readFileSync("bahasa.json","utf8"));
+    const bahasa = JSON.parse(fs.readFileSync("./bahasa.json","utf8"));
     const msg = {
         method:"post",
         body_required:["text","language"],
