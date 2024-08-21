@@ -5,7 +5,7 @@ A brief description of what this project does and who it's for
 
 ## Usage
 
-```http
+```
   POST https://translate-api-man.vercel.app
 ```
 
